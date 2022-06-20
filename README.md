@@ -1,6 +1,6 @@
 Апи для сайта lolz.guru
 
-Разработчик https://lolz.guru/kiber/ и немного помог вот этот вот https://lolz.guru/lowpriority/
+Разработчики https://lolz.guru/kiber/ (это я больше всего сделал) и https://lolz.guru/lowpriority/
 
 Полная документация апи на русском языке выйдет скорее всего тут https://lolz.guru/threads/4023008/ (чем больше симп, тем автор больше будет заинтересован в продолжении)
 
