@@ -1,0 +1,2 @@
+# LolzApi
+Lolz Api
