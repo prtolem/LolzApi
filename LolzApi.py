@@ -1346,6 +1346,6 @@ class LolzApi:
 
 
 if __name__ == '__main__':
-    lzt = LolzApi('c77ec7db7b5e6555cdc27846b66559852afe2864')
+    lzt = LolzApi('c77ec7db7b5e6555cdc27846b66510852afe2864')
     cat = lzt.create_conservation('1', 2, 4)
     print(cat)
