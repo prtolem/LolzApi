@@ -1343,9 +1343,3 @@ class LolzApi:
         if page: data['page'] = page
         if limit: data['limit'] = limit
         return self.session.post(self.base_url + 'search/tagged', data=data).json()
-
-
-if __name__ == '__main__':
-    lzt = LolzApi('c77ec7db7b5e6555cdc27846b66510852afe2864')
-    cat = lzt.create_conservation('1', 2, 4)
-    print(cat)
